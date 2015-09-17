@@ -1,5 +1,7 @@
 # Add Semantic HTML
 
+<img src="https://s3.amazonaws.com/after-school-assets/html5.png" width="300" hpsace="10" align="right">
+
 Semantic HTML makes our lives way easier. We can stop labeling things with IDs and classes. We like our code to be as readable as possible, and labeled correctly. Labeling our code with HTML5 Semantic tags lets Google properly return our website for the correct search results. Semantic tags is how Google knows the NYTimes is full of `articles` and that restaurants have a `menu`.
 
 ## Let's Get To Work

@@ -9,4 +9,4 @@ Semantic HTML makes our lives way easier. We can stop labeling things with IDs a
 In `index.html`, you'll find a website full of non-semantic tags. This website isn't styled at all, so you don't need to worry about viewing the site in the browser.
 
 Your job is to change out the `div` tags for the correct HTML5 semantic tags.
-<a href='https://learn.co/lessons/hs-intro-web-design-html5-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-html5-lab' title='Add Semantic HTML'>Add Semantic HTML</a> on Learn.co and start learning to code for free.</p>
